@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;    
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.wrapper{
+    max-width: 700px;
+    width: 100%;
+    margin: 130px auto;
+    background: #fff;
+    padding: 25px 30px 30px 30px;
+    border-radius: 5px;
+    
+}
+body{
+    background-color: deepskyblue;
+    overflow: hidden;
+}
+.wrapper header{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    
+}
+.wrapper nav{
+    height: 50px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    background: yellow;
+    
+}
+.wrapper nav label{
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+    color: black;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
